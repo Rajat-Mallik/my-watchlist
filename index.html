@@ -730,7 +730,19 @@ let _items = getLocal(); // in-memory
 
 async function syncFromGitHub(){
   const remote = await loadFromGitHub();
-  if(remote !== null){ _items = remote; setLocal(_items); render(); }
+  if(remote === null) return; // network error — keep local data
+
+  if(remote.length === 0 && _items.length > 0){
+    // GitHub file doesn't exist yet but we have local data
+    // → push local data up to GitHub instead of wiping it
+    await saveToGitHub(_items);
+    toast('Local data backed up to GitHub!', 'ok');
+    return;
+  }
+
+  _items = remote;
+  setLocal(_items);
+  render();
 }
 
 async function persistItems(){
