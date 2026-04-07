@@ -147,9 +147,18 @@
     "id": 1775581162093,
     "title": "Parks and Recreation",
     "type": "series",
-    "status": "To Watch",
+    "status": "Watching",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDlhMzAwNTAtNTk2NS00MTdkLWE3ZWYtMDU0MTFiYmU2ZTc0XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.6,
     "year": "2009–2015"
+  },
+  {
+    "id": 1775581180941,
+    "title": "2 Broke Girls",
+    "type": "series",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_SX300.jpg",
+    "rating": 6.7,
+    "year": "2011–2017"
   }
 ]
