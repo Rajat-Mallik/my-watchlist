@@ -61,5 +61,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzM0YmItZGQwYy00MzA4LTkwYjAtMmJkNWVmOTRkZGRkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.3,
     "year": "2021"
+  },
+  {
+    "id": 1775580813590,
+    "title": "Parasite",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.5,
+    "year": "2019"
   }
 ]
