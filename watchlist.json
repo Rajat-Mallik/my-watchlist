@@ -268,5 +268,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 9.2,
     "year": "2011–2019"
+  },
+  {
+    "id": 1775581354755,
+    "title": "The Fantastic Four: First Steps",
+    "type": "movie",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 6.8,
+    "year": "2025"
   }
 ]
