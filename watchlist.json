@@ -169,5 +169,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNGFmYmItMzVjYy00Yzc3LWFhN2EtOGU1ZTc2MWEwODUzXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7,
     "year": "2023–"
+  },
+  {
+    "id": 1775581213713,
+    "title": "Jujutsu Kaisen",
+    "type": "series",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.5,
+    "year": "2020–"
   }
 ]
