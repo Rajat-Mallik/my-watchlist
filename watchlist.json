@@ -259,5 +259,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.4,
     "year": "2025"
+  },
+  {
+    "id": 1775581331642,
+    "title": "Game of Thrones",
+    "type": "series",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 9.2,
+    "year": "2011–2019"
   }
 ]
