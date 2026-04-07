@@ -196,5 +196,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZTFmNjQtYzI5NS00NGIyLWEwNWYtYThjZGFiOGUzNDI5XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.1,
     "year": "2024–"
+  },
+  {
+    "id": 1775581249210,
+    "title": "One Piece",
+    "type": "series",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 9,
+    "year": "1999–"
   }
 ]
