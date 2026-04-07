@@ -250,5 +250,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
     "rating": 8,
     "year": "2016"
+  },
+  {
+    "id": 1775581322290,
+    "title": "Zootopia 2",
+    "type": "movie",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.4,
+    "year": "2025"
   }
 ]
