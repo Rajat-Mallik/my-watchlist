@@ -178,5 +178,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.5,
     "year": "2020–"
+  },
+  {
+    "id": 1775581228880,
+    "title": "The Godfather",
+    "type": "movie",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 9.2,
+    "year": "1972"
   }
 ]
