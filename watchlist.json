@@ -304,5 +304,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.7,
     "year": "2001"
+  },
+  {
+    "id": 1775581559882,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "type": "movie",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.1,
+    "year": "2003"
   }
 ]
