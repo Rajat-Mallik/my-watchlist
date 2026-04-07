@@ -70,5 +70,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.1,
     "year": "1989"
+  },
+  {
+    "id": 1775581039748,
+    "title": "12 Angry Men",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 9,
+    "year": "1957"
   }
 ]
