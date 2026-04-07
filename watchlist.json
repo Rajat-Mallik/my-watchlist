@@ -232,5 +232,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 9.5,
     "year": "2008–2013"
+  },
+  {
+    "id": 1775581306664,
+    "title": "Bugonia",
+    "type": "movie",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.4,
+    "year": "2025"
   }
 ]
