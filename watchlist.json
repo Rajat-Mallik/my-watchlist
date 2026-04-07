@@ -223,5 +223,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.4,
     "year": "2025"
+  },
+  {
+    "id": 1775581300175,
+    "title": "Breaking Bad",
+    "type": "series",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 9.5,
+    "year": "2008–2013"
   }
 ]
