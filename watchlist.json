@@ -15,7 +15,7 @@
     "status": "To Watch",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.6,
-    "year": "2016–2025"
+    "year": "2016â2025"
   },
   {
     "id": 1775487919101,
@@ -24,7 +24,7 @@
     "status": "Watched",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.6,
-    "year": "2016–2025"
+    "year": "2016â2025"
   },
   {
     "id": 1775492017680,
@@ -51,7 +51,7 @@
     "status": "Watched",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.5,
-    "year": "2009–2020"
+    "year": "2009â2020"
   },
   {
     "id": 1775580223320,
@@ -61,14 +61,5 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzM0YmItZGQwYy00MzA4LTkwYjAtMmJkNWVmOTRkZGRkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.3,
     "year": "2021"
-  },
-  {
-    "id": 1775580813590,
-    "title": "Parasite",
-    "type": "movie",
-    "status": "To Watch",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": 8.5,
-    "year": "2019"
   }
 ]
