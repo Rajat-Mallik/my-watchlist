@@ -142,5 +142,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_SX300.jpg",
     "rating": 8.3,
     "year": "2005–2017"
+  },
+  {
+    "id": 1775581162093,
+    "title": "Parks and Recreation",
+    "type": "series",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDlhMzAwNTAtNTk2NS00MTdkLWE3ZWYtMDU0MTFiYmU2ZTc0XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.6,
+    "year": "2009–2015"
   }
 ]
