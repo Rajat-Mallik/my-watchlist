@@ -106,5 +106,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.1,
     "year": "2025"
+  },
+  {
+    "id": 1775581099093,
+    "title": "Rocky",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.1,
+    "year": "1976"
   }
 ]
