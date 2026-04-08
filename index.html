@@ -475,7 +475,7 @@ async function loadFromGitHub(){
     if(!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     _sha = data.sha;
-    const items = JSON.parse(atob(data.content.replace(/\n/g,'')));
+    const items = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g,'')))));
     setSyncStatus('connected','Connected');
     return items;
   } catch(e){
