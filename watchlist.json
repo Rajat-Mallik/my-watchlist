@@ -403,5 +403,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
     "rating": 9.1,
     "year": "2008"
+  },
+  {
+    "id": 1775836423342,
+    "title": "Goodfellas",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.7,
+    "year": "1990"
   }
 ]
