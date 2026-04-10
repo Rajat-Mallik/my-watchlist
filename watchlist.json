@@ -448,5 +448,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
     "rating": 7.5,
     "year": "2014"
+  },
+  {
+    "id": 1775836517845,
+    "title": "Don't Look Up",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.1,
+    "year": "2021"
   }
 ]
