@@ -511,5 +511,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7,
     "year": "2013"
+  },
+  {
+    "id": 1775836994526,
+    "title": "Good Will Hunting",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.3,
+    "year": "1997"
   }
 ]
