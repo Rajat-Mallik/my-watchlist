@@ -475,5 +475,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.2,
     "year": "2010"
+  },
+  {
+    "id": 1775836571604,
+    "title": "Catch Me If You Can",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+    "rating": 8.1,
+    "year": "2002"
   }
 ]
