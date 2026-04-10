@@ -466,5 +466,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
     "rating": 7.9,
     "year": "2014"
+  },
+  {
+    "id": 1775836561292,
+    "title": "Shutter Island",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.2,
+    "year": "2010"
   }
 ]
