@@ -502,5 +502,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.6,
     "year": "2025"
+  },
+  {
+    "id": 1775836619762,
+    "title": "World War Z",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7,
+    "year": "2013"
   }
 ]
