@@ -538,5 +538,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_SX300.jpg",
     "rating": 7.4,
     "year": "2007"
+  },
+  {
+    "id": 1775837120130,
+    "title": "Dune: Part Two",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.4,
+    "year": "2024"
   }
 ]
