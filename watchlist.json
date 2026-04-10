@@ -430,5 +430,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzM0YmItZGQwYy00MzA4LTkwYjAtMmJkNWVmOTRkZGRkXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.3,
     "year": "2021"
+  },
+  {
+    "id": 1775836493262,
+    "title": "Hereditary",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.3,
+    "year": "2018"
   }
 ]
