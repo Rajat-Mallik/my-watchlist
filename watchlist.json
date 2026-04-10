@@ -493,5 +493,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_SX300.jpg",
     "rating": 7.3,
     "year": "2016"
+  },
+  {
+    "id": 1775836606714,
+    "title": "The Accountant 2",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 6.6,
+    "year": "2025"
   }
 ]
