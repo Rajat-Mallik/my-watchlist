@@ -457,5 +457,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.1,
     "year": "2021"
+  },
+  {
+    "id": 1775836530439,
+    "title": "Edge of Tomorrow",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+    "rating": 7.9,
+    "year": "2014"
   }
 ]
