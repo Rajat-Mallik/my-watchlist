@@ -358,5 +358,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7,
     "year": "1986"
+  },
+  {
+    "id": 1775836298517,
+    "title": "Top Gun: Maverick",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.2,
+    "year": "2022"
   }
 ]
