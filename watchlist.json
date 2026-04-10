@@ -349,5 +349,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.5,
     "year": "2025"
+  },
+  {
+    "id": 1775836283010,
+    "title": "Top Gun",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7,
+    "year": "1986"
   }
 ]
