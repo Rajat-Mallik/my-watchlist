@@ -547,5 +547,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.4,
     "year": "2024"
+  },
+  {
+    "id": 1775837303978,
+    "title": "Ferris Bueller's Day Off",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.8,
+    "year": "1986"
   }
 ]
