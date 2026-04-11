@@ -592,5 +592,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": null,
     "year": "2026"
+  },
+  {
+    "id": 1775925557174,
+    "title": "Tere Ishk Mein",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRjMzM1ZmUtMjk0Yi00NzA0LTk3ZWYtZWM3MWY3M2EwMjBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.5,
+    "year": "2025"
   }
 ]
