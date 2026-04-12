@@ -601,5 +601,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOGRjMzM1ZmUtMjk0Yi00NzA0LTk3ZWYtZWM3MWY3M2EwMjBhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.5,
     "year": "2025"
+  },
+  {
+    "id": 1775973409843,
+    "title": "Ae Dil Hai Mushkil",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 5.8,
+    "year": "2016"
   }
 ]
