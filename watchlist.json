@@ -610,5 +610,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 5.8,
     "year": "2016"
+  },
+  {
+    "id": 1777113599805,
+    "title": "Crazy stupid love",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1OGZhM2ItMmFhNS00YWViLTljMzUtYmU1Y2ZiNWFhOTUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": null,
+    "year": "2022"
   }
 ]
