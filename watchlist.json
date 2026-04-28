@@ -628,5 +628,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2Y0NWUzNmEtMDM4My00ODQyLTg1NGItOGViYjg0MzNlYTQwXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.9,
     "year": "2020"
+  },
+  {
+    "id": 1777384867233,
+    "title": "The Life List",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 6.8,
+    "year": "2025"
   }
 ]
