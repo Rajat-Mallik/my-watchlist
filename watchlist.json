@@ -619,5 +619,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzI1OGZhM2ItMmFhNS00YWViLTljMzUtYmU1Y2ZiNWFhOTUwXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": null,
     "year": "2022"
+  },
+  {
+    "id": 1777384848487,
+    "title": "The Half of It",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y0NWUzNmEtMDM4My00ODQyLTg1NGItOGViYjg0MzNlYTQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 6.9,
+    "year": "2020"
   }
 ]
