@@ -637,5 +637,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 6.8,
     "year": "2025"
+  },
+  {
+    "id": 1777384925540,
+    "title": "Past Lives",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "rating": 7.8,
+    "year": "2023"
   }
 ]
