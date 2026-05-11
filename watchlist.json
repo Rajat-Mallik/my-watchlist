@@ -682,5 +682,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
     "rating": 8.7,
     "year": "2013–2022"
+  },
+  {
+    "id": 1778490875790,
+    "title": "Dawn of the Planet of the Apes",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.6,
+    "year": "2014"
   }
 ]
