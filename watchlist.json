@@ -691,5 +691,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjllODU1NDItODU1Ni00N2Y2LTg4Y2ItOTJjMTczZDliN2FhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.6,
     "year": "2011"
+  },
+  {
+    "id": 1778991956206,
+    "title": "The Kashmir Files",
+    "type": "movie",
+    "status": "Watched",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTUwZTNjY2MtNmRjOC00YmI1LThlNWUtZTFkMDgzNTc5ODAwXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 8.6,
+    "year": "2022"
   }
 ]
