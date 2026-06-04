@@ -57,7 +57,7 @@
     "id": 1775581024894,
     "title": "Dead Poets Society",
     "type": "movie",
-    "status": "Watching",
+    "status": "To Watch",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.1,
     "year": "1989"
@@ -93,7 +93,7 @@
     "id": 1775581086240,
     "title": "Marty Supreme",
     "type": "movie",
-    "status": "Watched",
+    "status": "To Watch",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 8.1,
     "year": "2025"
@@ -588,7 +588,7 @@
     "id": 1775837596758,
     "title": "Project Hail Mary",
     "type": "movie",
-    "status": "Watched",
+    "status": "To Watch",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": null,
     "year": "2026"
@@ -691,86 +691,5 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjllODU1NDItODU1Ni00N2Y2LTg4Y2ItOTJjMTczZDliN2FhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.6,
     "year": "2011"
-  },
-  {
-    "id": 1778991956206,
-    "title": "The Kashmir Files",
-    "type": "movie",
-    "status": "Watched",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTUwZTNjY2MtNmRjOC00YmI1LThlNWUtZTFkMDgzNTc5ODAwXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": 8.6,
-    "year": "2022"
-  },
-  {
-    "id": 1778991978184,
-    "title": "Project Hail Mary",
-    "type": "movie",
-    "status": "Watched",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "rating": 8.4,
-    "year": "2026"
-  },
-  {
-    "id": 1779373163115,
-    "title": "The End of the F***ing World",
-    "type": "series",
-    "status": "To Watch",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTVkZTI3MmMtMDY1Yi00NjJhLTgyYTctNWE1OTJkNmZiZjdlXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": 8,
-    "year": "2017–2019"
-  },
-  {
-    "id": 1779541166496,
-    "title": "If Wishes Could Kill",
-    "type": "series",
-    "status": "To Watch",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTdlODc4ZjYtNzMwZC00NTI1LWIxN2MtMGU2ZDQ3YThmN2RmXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": null,
-    "year": "2026–"
-  },
-  {
-    "id": 1779633078235,
-    "title": "Off Campus",
-    "type": "series",
-    "status": "Watched",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDA0NzAzNDktYjBiOS00ZjFjLThhZTYtNzlkMDMzOTgxZTk5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "rating": 8.2,
-    "year": "2026–"
-  },
-  {
-    "id": 1779633132617,
-    "title": "Crazy, Stupid, Love.",
-    "type": "movie",
-    "status": "To Watch",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
-    "rating": 7.4,
-    "year": "2011"
-  },
-  {
-    "id": 1779633390184,
-    "title": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "status": "To Watch",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjZjYThlNWYtNzI3NS00MWE2LWI5NDEtNDAzMTZmYTdjNzc3XkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": 7.5,
-    "year": "2024–"
-  },
-  {
-    "id": 1779647934725,
-    "title": "Limitless",
-    "type": "movie",
-    "status": "Watched",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4OTQ4YzYtODlmMi00ZjA0LTg5M2QtZWUzNjA5N2NmODE5XkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": 7.4,
-    "year": "2011"
-  },
-  {
-    "id": 1779648061100,
-    "title": "Sambhavam Adhyayam Onnu",
-    "type": "movie",
-    "status": "Watched",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGNmODVmOTMtYzU0OC00MGY1LWIxZTAtMTQ1NzEzYjk2ODRmXkEyXkFqcGc@._V1_SX300.jpg",
-    "rating": null,
-    "year": "2026"
   }
 ]
