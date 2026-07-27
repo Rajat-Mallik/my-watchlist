@@ -898,5 +898,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
     "rating": 6.5,
     "year": "2026"
+  },
+  {
+    "id": 1785174360447,
+    "title": "House of the Dragon",
+    "type": "series",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "rating": 8.3,
+    "year": "2022–"
   }
 ]
