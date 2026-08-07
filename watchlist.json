@@ -925,5 +925,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SX300.jpg",
     "rating": 8,
     "year": "2006"
+  },
+  {
+    "id": 1786089756399,
+    "title": "The Social Network",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.8,
+    "year": "2010"
   }
 ]
