@@ -988,5 +988,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjU2ODMwMDUtNGVmMy00MWEwLTkyZTItMGYzYzdjN2I2ODVhXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.7,
     "year": "2009–2018"
+  },
+  {
+    "id": 1787503221336,
+    "title": "August Rush",
+    "type": "movie",
+    "status": "To Watch",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_SX300.jpg",
+    "rating": 7.4,
+    "year": "2007"
   }
 ]
