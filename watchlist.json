@@ -997,5 +997,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_SX300.jpg",
     "rating": 7.4,
     "year": "2007"
+  },
+  {
+    "id": 1787503292608,
+    "title": "El Camino",
+    "type": "movie",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxMjI2YzUtODQ5Mi00M2JmLTlmNzItOTlkM2MyM2ExM2RlXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.3,
+    "year": "2019"
   }
 ]
