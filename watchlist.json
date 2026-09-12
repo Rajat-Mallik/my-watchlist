@@ -1015,5 +1015,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTYzZjMzMTctNWZjYy00MGYxLWEzZTAtOTc5ZTcxNDAzNGUxXkEyXkFqcGc@._V1_SX300.jpg",
     "rating": 7.2,
     "year": "2021"
+  },
+  {
+    "id": 1789189667323,
+    "title": "Dark Matter",
+    "type": "series",
+    "status": "Watching",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzNmMDBhYmUtN2NmMC00NjNkLWJjMjAtOWJkY2E2YWMzZDJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": 7.6,
+    "year": "2024–"
   }
 ]
